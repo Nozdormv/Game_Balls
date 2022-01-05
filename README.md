@@ -1,7 +1,7 @@
 ![Banner](https://cdn.discordapp.com/attachments/834745138424315924/928326479530577960/logo.png)
 
 ![Version - v2-161121](https://img.shields.io/github/v/release/byronbutlerorg/Game_Balls?style=for-the-badge)
-![downloads - 0](https://img.shields.io/github/downloads/byronbutlerorg/Game_Balls/total?style=for-the-badge)
+[![downloads - 0](https://img.shields.io/github/downloads/byronbutlerorg/Game_Balls/total?style=for-the-badge)](https://github.com/byronbutlerorg/Game_Balls/releases/download/v1.0.0/Game.Balls.v1.Setup.1.0.0.exe)
 ![licence](https://img.shields.io/github/license/byronbutlerorg/Game_Balls?style=for-the-badge)
 
 <h3>:es: <strong>Game Balls</strong></h3>
