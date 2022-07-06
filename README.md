@@ -7,11 +7,13 @@
 <h3>:es: <strong>Game Balls</strong></h3>
 <p>¿Eres capaz de explotar el mayor numero de bolas posibles antes de que se acabe el tiempo?
 
-Selecciona al menos 3 bolas del mismo color que se estén tocando antes de que el tiempo se agote y sin dejár a que las bolas ocupen tu pantalla.
+Selecciona al menos 3 bolas del mismo color que se estén tocando antes de que el tiempo se agote y sin dejara a que las bolas ocupen tu pantalla.
 
-Gran bonus: 8 bolas minimo + Teimpo bonus sorpresa.
+Gran bonus: 8 bolas mínimo + Tiempo bonus sorpresa.
 
-Descarga esta app para windows totalmente grátis y demuestra tus habilidades.</p>
+Descarga esta app para windows totalmente gratis y demuestra tus habilidades.</p>
+
+----------------------------------------------------------------------------------------------------
 
 <h3>:uk: <strong>Game Balls</strong></h3>
 <p>Can you explode as many balls as possible before the time runs out?
