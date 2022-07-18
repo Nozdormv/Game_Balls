@@ -1,19 +1,17 @@
 ![Banner](https://cdn.discordapp.com/attachments/834745138424315924/928326479530577960/logo.png)
 
-![Version - v2.5.25](https://img.shields.io/github/v/release/byronbutlerorg/Game_Balls?style=for-the-badge)
-[![downloads - 0](https://img.shields.io/github/downloads/byronbutlerorg/Game_Balls/total?style=for-the-badge)](https://github.com/byronbutlerorg/Game_Balls/releases/download/v2.5.25/Game.Balls.Setup.2.5.20.exe)
+![Version - v2-161121](https://img.shields.io/github/v/release/byronbutlerorg/Game_Balls?style=for-the-badge)
+[![downloads - 0](https://img.shields.io/github/downloads/byronbutlerorg/Game_Balls/total?style=for-the-badge)](https://github.com/byronbutlerorg/Game_Balls/releases/download/v1.0.0/Game.Balls.v1.Setup.1.0.0.exe)
 ![licence](https://img.shields.io/github/license/byronbutlerorg/Game_Balls?style=for-the-badge)
 
 <h3>:es: <strong>Game Balls</strong></h3>
 <p>¿Eres capaz de explotar el mayor numero de bolas posibles antes de que se acabe el tiempo?
 
-Selecciona al menos 3 bolas del mismo color que se estén tocando antes de que el tiempo se agote y sin dejara a que las bolas ocupen tu pantalla.
+Selecciona al menos 3 bolas del mismo color que se estén tocando antes de que el tiempo se agote y sin dejár a que las bolas ocupen tu pantalla.
 
-Gran bonus: 8 bolas mínimo + Tiempo bonus sorpresa.
+Gran bonus: 8 bolas minimo + Teimpo bonus sorpresa.
 
-Descarga esta app para windows totalmente gratis y demuestra tus habilidades.</p>
-
-----------------------------------------------------------------------------------------------------
+Descarga esta app para windows totalmente grátis y demuestra tus habilidades.</p>
 
 <h3>:uk: <strong>Game Balls</strong></h3>
 <p>Can you explode as many balls as possible before the time runs out?

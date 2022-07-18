@@ -1,0 +1,81 @@
+{
+  "name": "game_balls",
+  "productName": "Game Balls",
+  "version": "2.5.20",
+  "description": "Pc game balls",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "electron-forge start",
+    "package": "electron-forge package",
+    "package-win": "electron-packager . --overwrite --asar=true --icon=icon.png --prune=true --out=release-builds --version-string.CompanyName=Nozdormv --appCopyright='Nozdormv' --version-string.FileDescription=Nozdormv --version-string.ProductName=\"Game Balls\"",
+    "build": "electron-builder"
+  },
+  "build": {
+    "productName": "Game Balls",
+    "appId": "com.byronbutler.game_balls",
+    "win": {
+      "target": [
+        "nsis"
+      ],
+      "icon": "icon.ico"
+    },
+    "nsis": {
+      "installerIcon": "icon.ico",
+      "uninstallerIcon": "icon.ico",
+      "uninstallDisplayName": "Game Balls Uninstaller",
+      "license": "licence.md",
+      "oneClick": false,
+      "allowToChangeInstallationDirectory": true
+    }
+  },
+  "keywords": [],
+  "author": {
+    "name": "Nozdormv",
+    "email": "nozdormv@byronbutler.com"
+  },
+  "appCopyright": "Nozdormv",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/byronbutlerorg/Game_Balls/issues"
+  },
+  "config": {
+    "forge": {
+      "packagerConfig": {},
+      "makers": [
+        {
+          "name": "@electron-forge/maker-squirrel",
+          "config": {
+            "name": "game_balls"
+          }
+        },
+        {
+          "name": "@electron-forge/maker-zip",
+          "platforms": [
+            "darwin"
+          ]
+        },
+        {
+          "name": "@electron-forge/maker-deb",
+          "config": {}
+        },
+        {
+          "name": "@electron-forge/maker-rpm",
+          "config": {}
+        }
+      ]
+    }
+  },
+  "dependencies": {
+    "electron-squirrel-startup": "^1.0.0",
+    "os-utils": "^0.0.14",
+    "update-electron-app": "^2.0.1"
+  },
+  "devDependencies": {
+    "@electron-forge/cli": "^6.0.0-beta.64",
+    "@electron-forge/maker-deb": "^6.0.0-beta.64",
+    "@electron-forge/maker-rpm": "^6.0.0-beta.64",
+    "@electron-forge/maker-squirrel": "^6.0.0-beta.64",
+    "@electron-forge/maker-zip": "^6.0.0-beta.64",
+    "electron": "16.0.6"
+  }
+}
